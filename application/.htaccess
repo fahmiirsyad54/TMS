@@ -1,0 +1,4 @@
+<IfModule authz_core_module>
+</IfModule>
+<IfModule !authz_core_module>
+</IfModule>
